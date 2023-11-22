@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.empty-div{
+    border-left: 5px solid black;
+    height: 20px;
+    padding: 20px;
+    
+}
+
+.jumpman{
+    width: 15%;
+
+}
+.converse{
+    width: 20%;
+}
+.head1{
+    width: 100%;
+    background-color: #fff;
+}
